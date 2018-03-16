@@ -1,1 +1,6 @@
-8
+福州1台,rtmp://live1.fzntv.cn:1935/live/zohi_fztv1
+福州2台,rtmp://live1.fzntv.cn:1935/live/zohi_fztv2
+福州3台,rtmp://live1.fzntv.cn:1935/live/zohi_fztv3
+福州-少儿,rtmp://live1.fzntv.cn:1935/live/zohi_fztv4
+敦刻尔克,https://apd-ba260c4f6e0fa8ebcaff8521e76ea835.v.smtcdns.com/vipzj.video.tc.qq.com/APscirm1ueNaDJeI6yWT6LdEYtsmnYzOSnznj4r70g8w/x0025qhcd32.mp4?sdtfrom=v1010&guid=7e6f7bad5adfc546dabf4fed6cbf2600&vkey=A991DCD05D5EDE9E5723BC32EBA19D3813FC4AD54E87FDA53A11CEBC8DA122F4&platform=2
+利刃27,https://apd-ba260c4f6e0fa8ebcaff8521e76ea835.v.smtcdns.com/vipzj.video.tc.qq.com/A_t0NZ7GpDJRPI3GsTD7aGC5PcEAfHSsWgOl1ZFwlLSo/o0026r7z18k.mp4?sdtfrom=v1010&guid=04d8712a3b933e87dfa87128ffe11793&vkey=A1B0B774F103B12104EDC4EE3B28DB0A861ABC2B357A4ED1B98DADA014F30D7D&platform=2
