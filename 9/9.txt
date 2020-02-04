@@ -1,3 +1,3 @@
 127.0.0.1 chaos.91ishare.cn   '屏蔽分身APP闪退问题
-127.0.0.1 wx.sifakaoshi360.com   '屏蔽网页广告
-127.0.0.1 xn--mtso8sj6menhyil.online:12388   '屏蔽网页广告
+127.0.0.1 wx.sifakaoshi360.com     '屏蔽网页广告
+127.0.0.1 xn--mtso8sj6menhyil.online:12388     '屏蔽网页广告
