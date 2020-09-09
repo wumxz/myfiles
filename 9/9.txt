@@ -4,3 +4,25 @@
 127.0.0.1 hub5btmain.sandai.net                '屏蔽迅雷相关
 127.0.0.1 hub5emu.sandai.net                '屏蔽迅雷相关
 127.0.0.1 upgrade.x19.xunlei.com                '屏蔽迅雷相关
+127.0.0.1 t1.daumcdn.net
+127.0.0.1 rp.hpplay.cn                         '乐播投屏
+127.0.0.1 cdn.hpplay.com.cn                         '乐播投屏
+127.0.0.1 hpplay.cdn.cibn.cc                         '乐播投屏
+127.0.0.1 adcdn.hpplay.cn                         '乐播投屏
+127.0.0.1 vipsdkauth.hpplay.cn                         '乐播投屏
+127.0.0.1 rpt.hpplay.cn                         '乐播投屏
+127.0.0.1 imdns.hpplay.cn                         '乐播投屏
+127.0.0.1 pay.hpplay.cn                         '乐播投屏
+127.0.0.1 tvapp.hpplay.cn                         '乐播投屏
+127.0.0.1 image.hpplay.cn                         '乐播投屏
+127.0.0.1 hotupgrade.hpplay.cn                         '乐播投屏
+127.0.0.1 sdkauth.hpplay.cn                         '乐播投屏
+127.0.0.1 lic.hpplay.com.cn                         '乐播投屏
+127.0.0.1 pin.hpplay.cn                         '乐播投屏
+127.0.0.1 sl.hpplay.cn                         '乐播投屏
+127.0.0.1 userapi.hpplay.cn                         '乐播投屏
+127.0.0.1 vipauth.hpplay.cn                         '乐播投屏
+127.0.0.1 devicemgr.hpplay.cn                         '乐播投屏
+127.0.0.1 hpplay.com.cn                         '乐播投屏
+127.0.0.1 hpplay.com                         '乐播投屏
+127.0.0.1 hpplay.cn                         '乐播投屏
