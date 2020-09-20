@@ -6,6 +6,7 @@
 127.0.0.1 upgrade.x19.xunlei.com                '屏蔽迅雷相关
 127.0.0.1 t1.daumcdn.net
 127.0.0.1 rp.hpplay.cn                         '乐播投屏
+127.0.0.1 rp.hpplay.com.cn                     '乐播投屏
 127.0.0.1 cdn.hpplay.com.cn                         '乐播投屏
 127.0.0.1 hpplay.cdn.cibn.cc                         '乐播投屏
 127.0.0.1 adcdn.hpplay.cn                         '乐播投屏
@@ -26,3 +27,6 @@
 127.0.0.1 hpplay.com.cn                         '乐播投屏
 127.0.0.1 hpplay.com                         '乐播投屏
 127.0.0.1 hpplay.cn                         '乐播投屏
+127.0.0.1 pic.1024av.cc
+127.0.0.1 cscdn1.39d83s.com
+127.0.0.1 img.ynkmjj.com                     '小小影视广告
