@@ -1,4 +1,5 @@
 127.0.0.1 chaos.91ishare.cn   '屏蔽分身APP闪退问题
+127.0.0.1 api.xgtl.online   '屏蔽位移精灵闪退
 127.0.0.1 cap.cyberlink.com       '威力导演
 127.0.0.1 activation.cyberlink.com        '威力导演
 127.0.0.1 rp.hpplay.cn                         '乐播投屏
